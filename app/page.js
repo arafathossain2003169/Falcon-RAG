@@ -5,7 +5,7 @@ import { useState, useRef, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
 // Replace with your working backend
-const API_URL = "https://nonrefracting-unconstipated-geneva.ngrok-free.dev/generate";
+const API_URL = "https://homophyly-multichanneled-pia.ngrok-free.dev/generate";
 
 export default function Home() {
   const [messages, setMessages] = useState([
